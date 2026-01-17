@@ -63,4 +63,5 @@ prompt.Triggered:Connect(function(player)
 			prompt.ActionText = "หยิบ"
 		end
 	end
+		1
 end)
